@@ -1,1 +1,2 @@
-This repository contains all the codes,files, and all other required things in order to create the youtube clone using HTML and CSS.
+#HTML-CSS-Code-for-Youtube.com
+Developed a desktop version resembling YouTube.com using HTML and CSS. The project replicates the YouTube homepage's UI, including buttons for Home, Trending, Subscriptions, and more. It features a functional search bar, video thumbnails, and descriptions, ensuring responsiveness across screen sizes. The CSS styling maintains a visually appealing layout consistent with YouTube's brand. This project showcases proficiency in web development fundamentals and UI/UX design principles.
